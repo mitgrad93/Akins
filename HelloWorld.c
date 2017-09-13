@@ -1,5 +1,5 @@
 Main() 
 {
-    printf(“Hello Wrld”);
+    printf(“Hello World”);
 }
 
